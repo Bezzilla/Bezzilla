@@ -1,4 +1,6 @@
 
+# 💫 About Me:
+- Hi there 👋​ My name is Beam, I’m currently studying Software and Knowledge Engineering at Kasetsart University
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/614445964811304970) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bezilla) 
 
